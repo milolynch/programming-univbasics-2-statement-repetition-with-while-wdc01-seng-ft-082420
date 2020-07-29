@@ -1,6 +1,6 @@
 count = 10
 
-while count != 0 do
+while count <= 1 do
   puts count
 
 puts "happy new year"

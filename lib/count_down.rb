@@ -4,4 +4,4 @@ while count >= 1 do
   puts count
   count -= 1
 end
-print ("happy new year!")
+print ("Happy New Year!")
